@@ -45,7 +45,7 @@ const ShareModal = ({ roomId, collaborators, creatorId, currentUserType }: Share
   return (
     <Dialog open={open} onOpenChange={setOpen}>
       <DialogTrigger>
-        <Button className="gradient-blue flex h-9 gap-1 px-4" disabled={currentUserType !== 'editor'}>
+        <Button className="gradient-indigo flex h-9 gap-1 px-4" disabled={currentUserType !== 'editor'}>
           <Image
             src="/assets/icons/share.svg"
             alt="share"
@@ -81,7 +81,7 @@ const ShareModal = ({ roomId, collaborators, creatorId, currentUserType }: Share
               setUserType={setUserType}
             />
           </div>
-          <Button type="submit" onClick={shareDocumentHandler} className="gradient-blue flex h-full gap-1 px-5" disabled={loading}>
+          <Button type="submit" onClick={shareDocumentHandler} className="gradient-indigo flex h-full gap-1 px-5" disabled={loading}>
             {loading ? 'Sending...' : 'Invite'}
           </Button>
         </div>
