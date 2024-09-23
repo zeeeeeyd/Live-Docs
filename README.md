@@ -1,6 +1,6 @@
-# Live Docs - Real-time Document Editor
+# Documenty - Real-time Document Editor
 
-Live Docs is a collaborative real-time document editor that allows multiple users to work on the same document simultaneously. Built using modern web technologies, it provides a seamless, efficient, and user-friendly editing experience.
+Documenty is a collaborative real-time document editor that allows multiple users to work on the same document simultaneously. Built using modern web technologies, it provides a seamless, efficient, and user-friendly editing experience.
 
 ![Mockup 2](./live-docs/public/assets/images/mockup2.png)
 ![Mockup 1](./live-docs/public/assets/images/mockup1.png)
