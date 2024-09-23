@@ -1,7 +1,3 @@
-Here’s a copy-paste-friendly version of the `README.md` file:
-
----
-
 # Live Docs - Real-time Document Editor
 
 Live Docs is a collaborative real-time document editor that allows multiple users to work on the same document simultaneously. Built using modern web technologies, it provides a seamless, efficient, and user-friendly editing experience.
@@ -97,8 +93,5 @@ Feel free to contribute, report bugs, or suggest new features by opening issues 
 
 ---
 
-Enjoy collaborating with **Live Docs**! 🎉
+Enjoy collaborating with **Documenty**! 🎉
 
---- 
-
-This is ready to paste directly into your `README.md` file.
