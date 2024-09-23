@@ -2,8 +2,8 @@
 
 Live Docs is a collaborative real-time document editor that allows multiple users to work on the same document simultaneously. Built using modern web technologies, it provides a seamless, efficient, and user-friendly editing experience.
 
-![Mockup 1](./live-docs/public/assets/images/mockup1)
-![Mockup 2](./live-docs/public/assets/images/mockup2)
+![Mockup 1](./live-docs/public/assets/images/mockup1.png)
+![Mockup 2](./live-docs/public/assets/images/mockup2.png)
 
 ## 🚀 Tech Stack
 
